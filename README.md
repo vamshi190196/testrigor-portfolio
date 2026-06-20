@@ -6,7 +6,7 @@ All test cases are written in plain English (natural language) and executed
 on real browsers without any programming.
 
 ## Tool Used
-- **Tool:** testRigor (Free Public Tier — no credit card required)
+- **Tool:** testRigor
 - **URL:** https://testrigor.com
 
 ## Applications Under Test
