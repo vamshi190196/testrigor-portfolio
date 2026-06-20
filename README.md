@@ -16,7 +16,8 @@ on real browsers without any programming.
 | Swag Labs | https://www.saucedemo.com | 8 ✅ | 20 ✅ | 10 ✅ |
 
 ## Repository Structure
-\```
+
+```
 testrigor-portfolio/
 ├── docs/
 │   └── 01_swag_labs/
@@ -25,4 +26,4 @@ testrigor-portfolio/
 │       ├── negative_suite.md
 │       └── screenshots/
 └── README.md
-\```
+```
