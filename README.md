@@ -1,4 +1,4 @@
-# AI Testing Portfolio — testRigor (No-Code Automation)
+# AI-Powered Testing Portfolio — testRigor (No-Code Automation)
 
 ## About This Portfolio
 This portfolio demonstrates AI-powered, no-code test automation using testRigor.
